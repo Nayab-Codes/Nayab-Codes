@@ -11,6 +11,3 @@ I am a passionate Computer Science student currently in my 2nd year, focused on 
 
 ### 📊 My Goals for 2026:
 - [ ] Maintain a consistent GitHub contribution graph (Green Squares!).
-
-### 📫 Connect with me:
-- **Email:** [mdnayabhussain06@gmail.com]
